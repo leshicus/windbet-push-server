@@ -1,0 +1,20 @@
+{
+    "name": "windbet-push-server",
+    "version": "0.0.1",
+    "description": "windbet-push-server",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leshicus/windbet-push-server.git"
+    },
+    "author": "leshicus@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.15.4",
+        "web-push": "^3.2.5"
+    }
+}
